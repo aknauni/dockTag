@@ -1,8 +1,8 @@
 [
-    {
-        "_id": "5cba24cc400e450018bdab99",
-        "deliveryNumber": "63578361",
-        "dockTagId": "a328990000000000000724858",
-        "status": "CREATED"
-    }
+  {
+    "_id": "5cba24cc400e450018bdab99",
+    "deliveryNumber": "63578361",
+    "dockTagId": "a328990000000000000724858",
+    "status": "CREATED"
+  }
 ]
